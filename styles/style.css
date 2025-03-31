@@ -241,7 +241,6 @@ fieldset {
   width: 100%;
   overflow: hidden;
   line-height: 90%;
-  /* важное свойство */
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
 
@@ -306,9 +305,6 @@ fieldset {
 
 .preloader-chasing-squares {
   position: absolute;
-  /* top: 50%;
-  left: 50%; */
-  
 }
 
 ul,
